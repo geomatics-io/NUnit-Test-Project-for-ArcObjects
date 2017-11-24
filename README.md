@@ -1,0 +1,2 @@
+# NUnit Test Project for ArcObjects
+This is a simple NUnit3 Test Project for testing code, that is based on the [ArcObjects SDK 10.4.x](https://desktop.arcgis.com/en/system-requirements/10.4/arcobjects-sdk-system-requirements.htm). There is a pre-configured `SetUpFixture`, that initializes the desired license.
